@@ -1,3 +1,4 @@
+
 DBProject_216254656_329375257
 #Best_ReadMe_Ever
 
@@ -10,3 +11,5 @@ The project includes a database that handles a ski gear rental and lesson system
 הצעד הבא שלנו היה לחשוב בדיוק על הישויות שיופיעו במערכת שלנו. אחרי רעיונות רבים ומאות שעות של העלאת רעיונות ודחייתם, הגענו לטופ 7 הישויות הנבחרות ואלו הן: דצכ עדש.. סתם נו, ואלו הן: הצרכן, השיעור פרטי עצמו, עובד שמכיל בתוכו מדריך סקי ומוכר, תשלום, השכרה, וציוד.
 יצרנו גם קשרים בין הישויות, וקיבלנו את דיאגרמת הERD הבאה:
 ![WhatsApp Image 2025-04-22 at 16 18 41_297d3c85](https://github.com/user-attachments/assets/eb9b0778-634e-4b16-8de0-cc7a92095693)
+ואז יצרנו גם את תרשים הDSD:
+![WhatsApp Image 2025-04-22 at 16 18 58_d64a42d8](https://github.com/user-attachments/assets/36d5ed3c-d691-453c-a1a8-31ed15cf05ea)
