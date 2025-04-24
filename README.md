@@ -23,7 +23,10 @@ DBProject_216254656_329375257
 
 שימוש בסקריפט פייתון:
 
-![WhatsApp Image 2025-04-22 at 18 40 33_d55105f8](https://github.com/user-attachments/assets/2c96337b-fd68-457a-961c-044b57429555)
+![image](https://github.com/user-attachments/assets/6a11614c-e384-4e92-a560-59e663ea94d0)
+![image](https://github.com/user-attachments/assets/57f6506e-408d-4e71-be4f-364b4c7803d5)
+
+
 
 
 לאחר מכן גיבינו את הנתונים בעצרת Docker עם pgadmin-
