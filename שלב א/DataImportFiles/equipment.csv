@@ -1,0 +1,401 @@
+eid,type,daily_price
+1,helmet,42
+2,ski jacket,232
+3,snowboard,113
+4,goggles,135
+5,base layer,7
+6,base layer,7
+7,base layer,329
+8,mittens,339
+9,helmet,370
+10,goggles,43
+11,mittens,259
+12,helmet,164
+13,ski jacket,288
+14,skis,256
+15,snow pants,282
+16,ski jacket,100
+17,skis,102
+18,ski jacket,342
+19,base layer,365
+20,helmet,293
+21,helmet,287
+22,ski boots,345
+23,ski poles,179
+24,goggles,179
+25,mittens,226
+26,goggles,19
+27,helmet,223
+28,ski jacket,81
+29,ski poles,164
+30,ski jacket,209
+31,mittens,292
+32,snow pants,185
+33,ski poles,20
+34,goggles,134
+35,snow pants,189
+36,ski jacket,354
+37,ski boots,246
+38,mittens,59
+39,ski jacket,220
+40,snowboard,337
+41,snowboard,353
+42,ski boots,230
+43,ski boots,242
+44,base layer,180
+45,base layer,369
+46,helmet,87
+47,ski poles,101
+48,ski jacket,112
+49,ski jacket,26
+50,snowboard,298
+51,ski poles,79
+52,base layer,220
+53,base layer,113
+54,goggles,151
+55,snowboard,190
+56,ski boots,104
+57,helmet,25
+58,ski boots,36
+59,ski jacket,308
+60,skis,230
+61,base layer,179
+62,ski jacket,200
+63,ski jacket,120
+64,goggles,247
+65,skis,157
+66,skis,328
+67,ski boots,303
+68,helmet,330
+69,snowboard,160
+70,ski poles,382
+71,helmet,110
+72,ski poles,370
+73,ski poles,196
+74,snowboard,184
+75,helmet,301
+76,ski boots,362
+77,mittens,286
+78,ski boots,69
+79,snowboard,247
+80,goggles,392
+81,skis,116
+82,ski poles,123
+83,ski poles,47
+84,helmet,141
+85,base layer,49
+86,ski boots,288
+87,skis,10
+88,ski boots,249
+89,ski boots,201
+90,snowboard,23
+91,skis,110
+92,goggles,8
+93,ski jacket,293
+94,ski poles,248
+95,ski boots,198
+96,ski jacket,183
+97,goggles,270
+98,ski poles,331
+99,skis,270
+100,base layer,349
+101,ski jacket,345
+102,ski poles,225
+103,helmet,251
+104,ski poles,271
+105,skis,209
+106,goggles,41
+107,base layer,309
+108,ski boots,321
+109,base layer,391
+110,snowboard,326
+111,goggles,78
+112,mittens,13
+113,snowboard,214
+114,base layer,317
+115,skis,16
+116,goggles,342
+117,snow pants,36
+118,goggles,190
+119,ski boots,367
+120,snowboard,310
+121,ski boots,159
+122,ski jacket,362
+123,ski poles,96
+124,ski poles,64
+125,goggles,96
+126,goggles,185
+127,base layer,159
+128,snow pants,122
+129,snow pants,12
+130,ski boots,269
+131,snow pants,257
+132,base layer,234
+133,mittens,144
+134,mittens,295
+135,snow pants,73
+136,goggles,335
+137,ski jacket,329
+138,mittens,275
+139,skis,278
+140,snowboard,386
+141,snowboard,240
+142,goggles,36
+143,helmet,297
+144,mittens,332
+145,snowboard,376
+146,mittens,66
+147,base layer,353
+148,base layer,343
+149,ski jacket,187
+150,helmet,315
+151,snowboard,256
+152,snow pants,254
+153,helmet,359
+154,ski boots,264
+155,base layer,153
+156,ski poles,214
+157,mittens,236
+158,goggles,275
+159,ski jacket,222
+160,ski boots,230
+161,skis,116
+162,skis,28
+163,helmet,218
+164,helmet,62
+165,goggles,328
+166,snowboard,112
+167,ski poles,142
+168,mittens,59
+169,ski jacket,369
+170,skis,212
+171,goggles,111
+172,ski boots,42
+173,ski jacket,104
+174,snowboard,76
+175,snow pants,203
+176,snowboard,334
+177,ski jacket,8
+178,ski poles,283
+179,helmet,100
+180,helmet,345
+181,ski poles,239
+182,snowboard,19
+183,ski poles,223
+184,goggles,38
+185,ski poles,177
+186,ski jacket,218
+187,ski boots,312
+188,mittens,360
+189,ski boots,286
+190,goggles,113
+191,snowboard,71
+192,ski poles,140
+193,base layer,18
+194,ski boots,133
+195,goggles,367
+196,ski poles,306
+197,ski poles,364
+198,ski poles,229
+199,ski boots,266
+200,helmet,327
+201,mittens,350
+202,ski boots,91
+203,snowboard,400
+204,base layer,303
+205,snow pants,94
+206,ski jacket,185
+207,snowboard,249
+208,ski poles,102
+209,mittens,366
+210,goggles,216
+211,ski poles,253
+212,ski poles,47
+213,snowboard,354
+214,ski jacket,143
+215,helmet,67
+216,ski boots,285
+217,ski jacket,93
+218,goggles,45
+219,skis,304
+220,ski boots,12
+221,snow pants,71
+222,goggles,201
+223,helmet,265
+224,ski poles,228
+225,goggles,154
+226,mittens,384
+227,helmet,231
+228,skis,269
+229,ski poles,270
+230,ski jacket,178
+231,skis,15
+232,snowboard,306
+233,helmet,28
+234,base layer,20
+235,ski jacket,284
+236,snow pants,247
+237,ski boots,356
+238,skis,28
+239,snow pants,257
+240,helmet,290
+241,skis,250
+242,mittens,328
+243,ski boots,358
+244,ski jacket,359
+245,base layer,217
+246,ski boots,283
+247,ski poles,161
+248,ski jacket,27
+249,ski jacket,278
+250,mittens,338
+251,snow pants,170
+252,snow pants,78
+253,ski poles,362
+254,ski jacket,326
+255,snow pants,19
+256,snow pants,289
+257,goggles,372
+258,helmet,176
+259,snowboard,351
+260,skis,121
+261,skis,20
+262,snowboard,192
+263,ski boots,43
+264,helmet,337
+265,helmet,62
+266,base layer,110
+267,skis,159
+268,ski boots,164
+269,ski jacket,312
+270,goggles,189
+271,ski poles,331
+272,ski poles,54
+273,mittens,320
+274,ski poles,185
+275,snowboard,116
+276,ski boots,240
+277,ski jacket,84
+278,ski boots,244
+279,ski poles,400
+280,goggles,131
+281,goggles,24
+282,helmet,204
+283,skis,22
+284,snow pants,285
+285,helmet,163
+286,snowboard,260
+287,snowboard,245
+288,ski jacket,274
+289,ski boots,6
+290,ski poles,82
+291,snow pants,91
+292,mittens,396
+293,ski poles,279
+294,helmet,123
+295,base layer,130
+296,skis,298
+297,ski jacket,210
+298,helmet,46
+299,base layer,148
+300,ski jacket,358
+301,snow pants,248
+302,skis,120
+303,snowboard,141
+304,snowboard,122
+305,base layer,335
+306,skis,252
+307,snowboard,61
+308,helmet,236
+309,ski boots,8
+310,helmet,278
+311,snow pants,272
+312,snow pants,379
+313,skis,49
+314,goggles,262
+315,snow pants,323
+316,snowboard,87
+317,ski poles,386
+318,skis,69
+319,snow pants,255
+320,ski poles,288
+321,mittens,178
+322,snow pants,262
+323,mittens,256
+324,snow pants,103
+325,mittens,168
+326,mittens,265
+327,ski poles,301
+328,snow pants,314
+329,goggles,125
+330,skis,338
+331,ski boots,138
+332,snowboard,236
+333,ski jacket,374
+334,helmet,330
+335,ski poles,242
+336,goggles,322
+337,ski jacket,119
+338,goggles,222
+339,snow pants,331
+340,skis,152
+341,base layer,136
+342,ski jacket,370
+343,ski poles,99
+344,helmet,315
+345,snowboard,57
+346,ski jacket,113
+347,ski boots,292
+348,skis,215
+349,ski boots,120
+350,goggles,227
+351,snowboard,324
+352,snow pants,125
+353,ski boots,169
+354,mittens,178
+355,goggles,232
+356,ski boots,130
+357,ski boots,113
+358,ski poles,256
+359,base layer,180
+360,snow pants,61
+361,ski boots,3
+362,ski boots,137
+363,mittens,288
+364,mittens,227
+365,snow pants,368
+366,mittens,195
+367,mittens,120
+368,base layer,341
+369,ski boots,67
+370,helmet,155
+371,ski jacket,386
+372,ski jacket,327
+373,ski boots,171
+374,skis,394
+375,snowboard,90
+376,ski poles,328
+377,ski jacket,291
+378,mittens,144
+379,snow pants,161
+380,skis,36
+381,ski jacket,171
+382,helmet,325
+383,snowboard,248
+384,mittens,244
+385,goggles,131
+386,snowboard,387
+387,snow pants,65
+388,ski poles,314
+389,goggles,298
+390,helmet,235
+391,mittens,6
+392,snowboard,387
+393,skis,127
+394,base layer,72
+395,skis,359
+396,ski poles,125
+397,ski jacket,350
+398,skis,303
+399,helmet,334
+400,ski poles,387
