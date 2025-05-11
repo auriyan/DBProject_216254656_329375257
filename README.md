@@ -29,4 +29,17 @@ DBProject_216254656_329375257
 
 
 
-לאחר מכן גיבינו את הנתונים בעצרת Docker עם pgadmin-
+לאחר מכן גיבינו את הנתונים בעצרת Docker עם pgadmin.
+ראשית, יצרנו קובץ גיבוי:
+![image](https://github.com/user-attachments/assets/f5b7caf6-2676-4486-88c4-410ead3c68c5)
+לאחר מכן, כדי לבדוק שקובץ הגיבוי אכן עובד, מחקנו את הטבלאות אחת אחרי השניה:
+![image](https://github.com/user-attachments/assets/7cd58849-5e83-4ed6-a520-6a213494af2d)
+עד שכל הטבלאות לכאורה נעלמו
+![image](https://github.com/user-attachments/assets/9c35bfdf-5b61-47b0-a9e0-66472d83c790)
+לאחר שמחקנו את כל הטבלאות, גיבינו אותם בעזרת קובץ הגיבוי שיצרנו:
+![image](https://github.com/user-attachments/assets/b8bdbf5b-53e0-4e70-a182-554ec3bef506)
+ובאמת היווכחנו לגלות שאכן הקבצים שלנו חזרו במלואם!! (ברוך ה' פיווווו)
+![image](https://github.com/user-attachments/assets/8736f643-a523-4c64-975a-b54921909698)
+
+
+
