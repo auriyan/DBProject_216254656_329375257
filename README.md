@@ -254,3 +254,48 @@ DBProject_216254656_329375257
 ![WhatsApp Image 2025-05-20 at 18 11 46_6baacd00](https://github.com/user-attachments/assets/19814c9d-ddcb-4e85-84f8-2a66fc052d42)
 
 
+
+בנוסף, ביצענו גם commit ו- rollback. נראה שהם עובדים.
+
+דוגמה לrollback:
+
+זוהי טבלת הלקוחות לאחר שביצענו את שאילתת מחיקה מספר 3 שהגדרנו למעלה.
+
+![image](https://github.com/user-attachments/assets/57bc2919-2fbd-46f5-b153-44fd3dc0a009)
+
+כפי שניתן לראות, מהטבלה נמחקו 15 שורות. 
+
+נבצע את הפקודה הבאה:
+
+![image](https://github.com/user-attachments/assets/1a5c6d69-0724-4f27-be3c-8d44e0a0c9d8)
+
+ונראה כי חזרנו לטבלה המקורית:
+
+![WhatsApp Image 2025-05-20 at 17 07 49_ed12ec85](https://github.com/user-attachments/assets/6ea1bb33-1c60-40ef-b89c-12a1b1d7e264)
+
+
+
+
+
+
+
+
+דוגמה לcommit:
+
+זוהי טבלת ההשכרות לאחר שביצענו את שאילתת עדכון מספר 2 שהגדרנו למעלה:
+
+![image](https://github.com/user-attachments/assets/8e0c2c7a-155f-4196-88a5-13d218b6cca4)
+
+כמו שראינו לעיל, בשורה 5 התאריך המקורי היה ביום ה27, והוא השתנה לתאריך ה29. נבצע את הפקודה הבאה:
+
+![image](https://github.com/user-attachments/assets/75b307e7-6823-46b2-9f70-bee78920abcb)
+
+ועכשיו גם לאחר שננסה לחזור אחורה, הטבלה לא שונתה והתאריך הוא עדיין 29:
+
+![image](https://github.com/user-attachments/assets/82b08a19-9299-44f5-abec-c19b910efa75)
+
+
+
+
+
+
