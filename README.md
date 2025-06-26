@@ -312,6 +312,109 @@ DBProject_216254656_329375257
 פונקציה מס' 1. הפונקציה מחשבת סך כל ההוצאות של לקוח (השכרות + שיעורים) ומזהה לקוחות VIP.
 
 
-![WhatsApp Image 2025-06-26 at 15 34 33_e9308573](https://github.com/user-attachments/assets/1b4d6b8d-f94c-40ae-ba18-e82bfb09bfcf)
 
- 
+
+![image](https://github.com/user-attachments/assets/b973ca34-7bec-41b2-a1bb-7587564a0f2b)
+
+
+
+
+פונקציה מס' 2. הפונקציה מחזירה רשימה של כל הציוד הפנוי לתאריך מסוים (אפשר לסנן לפי סוג).
+
+
+
+![image](https://github.com/user-attachments/assets/d339d9e4-cf6a-4453-a926-fa0cc43f501a)
+
+אחרי הוספת הפונקציות נשים לב שהם באמת התווספו:
+
+
+
+![WhatsApp Image 2025-06-26 at 16 02 49_08cb3342](https://github.com/user-attachments/assets/6e686405-8e9a-4d60-806a-612ee4445bc1)
+
+
+פרוצדורה מס' 1. הפרוצדורה מעבירה השכרות ישנות לטבלת ארכיון, מנקה את הטבלה הראשית ומחשבת הכנסות.
+
+
+
+![image](https://github.com/user-attachments/assets/f2cc82f8-d8f9-46ec-b75e-eeee03add0a1)
+
+
+
+פרוצדורה מס' 2. הפרוצדורה מנתחת ביקוש לציוד ומעדכנת מחירים אוטומטית - מעלה מחיר לציוד פופולרי ומורידה לציוד פחות מבוקש.
+
+
+
+
+![image](https://github.com/user-attachments/assets/f66c25ce-b774-435d-bb92-43822cb54729)
+
+
+
+אחרי הוספת הפרוצדורות, נשים לב שהם באמת התווספו:
+
+
+![WhatsApp Image 2025-06-26 at 16 02 39_c8510f01](https://github.com/user-attachments/assets/296e4fe1-7beb-449f-9c17-ad949305e697)
+
+
+טריגר מס' 1. הטריגר מוודא שתאריך סיום ההשכרה לא לפני תאריך ההתחלה.
+
+
+
+![image](https://github.com/user-attachments/assets/cff1c415-2b48-4337-8994-c90b05997288)
+
+
+
+טריגר מס' 2. הטריגר מעדכן אוטומטית את תאריך התשלום לתאריך הנוכחי ומוודא שהסכום חיובי.
+
+
+
+
+![image](https://github.com/user-attachments/assets/eff34722-4a61-4ee6-a7e7-fb9116e45053)
+
+
+
+
+אחרי הוספת הטריגרים נשים לב שהם באמת התווספו:
+
+
+![WhatsApp Image 2025-06-26 at 16 03 01_ddaf21c2](https://github.com/user-attachments/assets/296567ad-55ab-4c07-ab83-a5882d58ab91)
+
+
+תוכנית ראשית מס' 1. התוכנית מזהה לקוחות VIP, מייצרת דוח מפורט ומנקה נתונים ישנים. לאחר ריצת התוכנית:
+אפשר לראות שעשינו 6.3 מיליון שקל, ו23 לקוחות הוכנסו לארכיון כי הם לא היו פעילים מעל חצי שנה
+
+
+
+![WhatsApp Image 2025-06-26 at 15 55 49_f294b936](https://github.com/user-attachments/assets/b6b3b83a-6a52-409f-a580-b4295be89a77)
+
+
+
+כדי להתנהל עם הארכיון, יצרנו טבלה שתשמש בתור מעקב אחרי הלקוחות שהכנסנו לארכיון. לאחר יצירת הטבלה נראה שהיא באמת נוצרה אבל כרגע היא ריקה:
+
+
+![WhatsApp Image 2025-06-26 at 15 50 35_9d88c738](https://github.com/user-attachments/assets/a054a0b4-5196-4235-820c-20e5d917179d)
+![WhatsApp Image 2025-06-26 at 15 50 48_b58f1bd7](https://github.com/user-attachments/assets/ee877ecf-7ee3-4294-9bab-1449b235844f)
+
+
+
+אך לאחר ריצת התוכנית הראשונה נראה ש23 עברו לטבלה, כמו שהתוכנית באמת כתבה לנו בפלט. אפשר גם לראות שתאריך ההכנסה לארכיון הוא ממש התאריך האמיתי שבו הרצנו את התוכנית.
+
+
+
+
+![WhatsApp Image 2025-06-26 at 15 57 46_79f92473](https://github.com/user-attachments/assets/c9729858-b3fb-4a5d-929f-2874dddb8731)
+
+
+
+
+
+תוכנית ראשית מס' 2. התוכנית בודקת זמינות ציוד, מעדכנת מחירים לפי ביקוש ומייצרת המלצות. לאחר ריצת התוכנית:
+ניתן לראות שקיבלנו רשימה של כל הפריטים הזמינים לפי ביקוש והמלצות:
+
+
+
+![WhatsApp Image 2025-06-26 at 16 15 46_5057f781](https://github.com/user-attachments/assets/74397cc0-a882-49be-8fa6-f0dd4c6e2705)
+![WhatsApp Image 2025-06-26 at 16 22 57_add0c98c](https://github.com/user-attachments/assets/bf4c8746-885b-4163-843d-454b27244f2c)
+
+
+
+
