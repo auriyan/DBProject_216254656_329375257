@@ -429,25 +429,25 @@ DBProject_216254656_329375257
 מסך כניסה ממנו יהיה אפשר להיכנס לכל מסכי המערכת.
 מסכים המשמשים ליצירה, עדכון, מחיקה ושליפת נתונים, של לפחות 3 טבלאות מבין הטבלאות שלכן כאשר אחת מבין השלושה קשורה לשתיים האחרות.
 מסך אשר ממנו ניתן להפעיל לפחות 2 מהשאילתות שכתבנו בשלב ב' + 2 מהפרוצדורות והפונקציות שכתבנו בשלב ד'.
-נשים דגם גם על היופי הגרפי של המסכים ונוחות העבודה איתם.
+נשים דגש גם על היופי הגרפי של המסכים ונוחות העבודה איתם.
 מספר המסכים הנדרש - לכל הפחות 5 מסכים במערכת.
 
 
 את התוכנית המלאה של הממשק הגרפי שכתבנו ניתן למצוא בתיקייה "שלב ה" בקובץ app.py
 
-החלטנו להשתמש בstremlit בשביל הממשק הגרפי, לכן כדי להריץ את הממשק הגרפי מהlocal host שלכם, צריך להריץ את הפקודה הבאה:
+החלטנו להשתמש בstremlit בשביל הממשק הגרפי, לכן כדי להריץ את הממשק הגרפי מהlocal host, צריך להריץ את הפקודה הבאה:
 
 ![image](https://github.com/user-attachments/assets/a7bdf8c5-c679-440e-8a56-ba97e81458d0)
 
-לאחר שהצרנו את הפקודה, ניתן לראות את המסך הראשי שעולה:
+לאחר שהרצנו את הפקודה, ניתן לראות את המסך הראשי שעולה:
 
 ![image](https://github.com/user-attachments/assets/4e559329-9327-48b3-b3da-3705fd8b2bc8)
 
-כעת נעבור על כל הדרישות ונסביר בדיוק כיצר מילאנו אותן.
+כעת נעבור על כל הדרישות ונסביר בדיוק כיצד מילאנו אותן.
 
 ראשית כל, התבקשנו לתת אפשרות לביצוע פעולות של שליפת נתונים, עדכון, הכנסה ומחיקה מ3 טבלאות לפחות, כאשר טבלה אחת מקשרת בין ה2 האחרות. הטבלאות שבחרנו הם - equipmet, rentals, rental equipment. כלומר ציוד, השכרות, והשכרות ציוד. בנוסף שמנו גם את cusomer.
 
-לכל אחד מהטבלאות יצרנו ממשק גרפי שונה, שניתן להגיע אליו מהבחירת מסכים בצד שמאל של המסך הראשי:
+לכל אחד מהטבלאות יצרנו ממשק גרפי שונה, שניתן להגיע אליו מבחירת המסכים בצד שמאל של המסך הראשי:
 
 ![image](https://github.com/user-attachments/assets/3b42045f-4ee0-41e0-81ac-192da4851e58)
 
@@ -457,7 +457,7 @@ DBProject_216254656_329375257
 
 ![image](https://github.com/user-attachments/assets/fa94cea6-4a38-4b51-b03a-96ba799b598a)
 
-זה עובד, ואפילו הוספנו על מיני פיצ'רים שימושיים כמו ממוצע ואפשרות להוריד את התוצאות כקובץ CSV.
+זה עובד, ואפילו הוספנו כל מיני פיצ'רים שימושיים כמו ממוצע ואפשרות להוריד את התוצאות כקובץ CSV!
 
 נעבור לעדכון. נעדכן את המשקפת שהid שלה הוא 4 והמחיר שלה הוא 135 להיות במחיר 150. נראה שלפני העדכון זה מופיע ככה בטבלה:
 
@@ -471,7 +471,7 @@ DBProject_216254656_329375257
 
 ![image](https://github.com/user-attachments/assets/35d439fe-7e22-4b4c-b0ca-228b7bd4412b)
 
-ניתן לראות שהעדגון עבד.
+ניתן לראות שהעדכון עבד.
 
 נמשיך להכנסה. נגיד שאנחנו רוצים להוסיף פריט חדש - מעיל יוקרתי שעולה 5000 שקל. נראה בחיפוש שאין מעיל כזה עכשיו:
 
@@ -495,7 +495,7 @@ DBProject_216254656_329375257
 
 ![image](https://github.com/user-attachments/assets/c681d53e-bd60-4187-a4e0-6dfbdbebffc1)
 
-אפילו הוספנו הודעה שאומרת שמחיקה של ציוד יכולה להשפיע על טסלאות אחרות, והמשתמש לא יוכל למחוק את הציוד בלי שהוא יאשר.
+נשים לב להודעה שאומרת שמחיקה של ציוד יכולה להשפיע על טבלאות אחרות, והמשתמש לא יוכל למחוק את הציוד בלי שהוא יאשר.
 
 לאחר המחיקה נראה שהציוד באמת נמחק:
 
@@ -515,11 +515,11 @@ DBProject_216254656_329375257
 
 ![image](https://github.com/user-attachments/assets/6c505020-c3f1-47d8-92a2-d7dbf57e904e)
 
-ונרה שהיו 102 לקוחות ששכרו סה"כ 123 פעמים ציוד. ואפילו הוספנו אפשרות לראות את כמות ההשכרות הגדולה ביותר של לקוח בודד:
+ונראה שהיו 102 לקוחות ששכרו סה"כ 123 פעמים ציוד. ואפילו הוספנו אפשרות לראות את כמות ההשכרות הגדולה ביותר של לקוח בודד:
 
 ![image](https://github.com/user-attachments/assets/178ff5a3-941d-475a-b795-7a182af56a54)
 
-נראה עכשיו את הפונקציות של שלב 4. היו שניים. נראה לדוגמא את הראשונה - מחשבת לקוחות VIP ומביאה נתונים. כדי להרית את הפונקציות של שלב 4 צריך ללכת למסך הזה:
+נראה עכשיו את הפונקציות של שלב 4. היו שניים. נראה לדוגמא את הראשונה - מחשבת לקוחות VIP ומביאה נתונים. כדי להריץ את הפונקציות של שלב 4 צריך ללכת למסך הזה:
 
 ![image](https://github.com/user-attachments/assets/8ac58a34-7817-4cdb-bfae-bef37252f39b)
 
@@ -533,11 +533,21 @@ DBProject_216254656_329375257
 
 הלקוח כן VIP ויש עוד הרבה נתונים עליו.
 
-בנוסף, כמובן שמילאנו את הדרישה של לחות 5 מסכים - יש לנו הרבה יותר מזה...
+אז יש כמובן לפחות חמישה מסכים, את כל הפונקציות והשאילתות שנדרשו, ואפליקציה גרפית חזקה ואיתנה😄
 
 ![image](https://github.com/user-attachments/assets/dff6b3a9-8d5a-4827-813b-7030a678f7f8)
 
-סיימנו את שלב 5! :)
+ובכך נסיים את הפרוייקט עם חמשיר היישר מקלוד💗:
+
+מערכת שבנינו מאפס עד תום
+
+עם טבלאות וקשרים, ממש כמו חלום
+
+רצות שאילתות, פונקציות עובדות
+
+כשהממשק הגרפי מציג תוצאות מרהיבות
+
+תודה על המסע, הפרויקט הושלם בהצלחות! 🎿
 
 
 
