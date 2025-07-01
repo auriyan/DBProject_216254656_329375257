@@ -1,6 +1,7 @@
 דרישות לפי שלבים פרוייקט בסיסי נתונים המרכז האקדמי מכון לב
 
-![תמונה של WhatsApp‏ 2025-07-01 בשעה 14 35 32_73a4a437](https://github.com/user-attachments/assets/f45e7550-fbb7-495b-bc1b-4e7edfb2a57b) ![image](https://github.com/user-attachments/assets/f77784ab-7cb8-490d-a671-320c5d1ff8a1) ![image](https://github.com/user-attachments/assets/f1dc45dc-4d42-4c40-8318-5919a1f66361)
+![תמונה של WhatsApp‏ 2025-07-01 בשעה 14 35 32_73a4a437](https://github.com/user-attachments/assets/f45e7550-fbb7-495b-bc1b-4e7edfb2a57b) ![image](https://github.com/user-attachments/assets/f77784ab-7cb8-490d-a671-320c5d1ff8a1) ![image](https://github.com/user-attachments/assets/5fe0ad57-609f-4ff3-8260-3053f0c2c6e6)
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
